@@ -1,0 +1,17 @@
+{
+  "portalverbundPocHTTPServerHostname":"localhost",
+  "portalverbundPocHTTPServerPort":"4000",
+  "portalverbundPocMQTTServerHostname":"localhost",
+  "portalverbundPocMQTTServerPort":"1883",
+  "portalverbundPocBereitstelldienstMQTTArray":[{"hostname":"localhost", "port":"1883"}],
+  "portalverbundPocRedisHostname":"localhost",
+  "portalverbundPocRedisPort":"6379",
+  "portalverbundPocRedisMaxHeap":"512m",
+  "portalverbundPocPersistenceEngine":"redis",
+  "portalverbundPocMessageEngine":"mqtt",
+  "portalverbundPocElasticsearchHostname":"localhost",
+  "portalverbundPocElasticsearchPort":"9200",
+  "portalverbundPocPortalTitle":"Das gr&uuml;ne Portal",
+  "portalverbundPocPortalColor":"darkgreen"
+}
+
